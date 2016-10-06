@@ -1,10 +1,11 @@
 ## About ##
-![alt tag](https://raw.githubusercontent.com/tk512/dashboard-motion-detect/master/dashboard-on-wall.jpg)
 
 The idea started when I set up a dashboard on a Raspberry Pi 3 in our office.
 Seeing the dashboard is mounted on the wall, I wanted it automatically switched off
 at night, which is easy enough, but not if people are still there, as they may still
 want to look at it.
+
+![alt tag](https://raw.githubusercontent.com/tk512/dashboard-motion-detect/master/dashboard-on-wall.jpg)
 
 So by connecting a PIR to the Raspberry, this was easily done. Now I was able to switch on
 and off the screen using DPMS commands whenever there was say, 15 minutes of lack of movement.
