@@ -22,7 +22,6 @@ able to see that people were at the office (working hard I'm sure) until 9PM the
 
 First install the prerequisites:
 ```
-#!bash
 $ sudo apt-get install git-core libsqlite3-dev sqlite3
 $ git clone git://git.drogon.net/wiringPi
 $ cd wiringPi
@@ -32,8 +31,7 @@ $ sudo ./build  (this will install the library as well)
 Then, grab this tool and build it:
 
 ```
-#!bash
-$ git clone https://bitbucket.org/heliumdevops/dashboard-motion-detect.git
+$ git clone https://github.com/tk512/dashboard-motion-detect.git
 $ cd dashboard-motion-detect
 $ make
 ```
