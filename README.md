@@ -7,7 +7,7 @@ want to look at it.
 
 ![alt tag](https://raw.githubusercontent.com/tk512/dashboard-motion-detect/master/dashboard-on-wall.jpg)
 
-So by connecting a PIR to the Raspberry, this was easily done. Now I was able to switch on
+So by connecting a [PIR to the Raspberry](https://www.raspberrypi.org/learning/parent-detector/worksheet/), this was easily done. Now I was able to switch on
 and off the screen using DPMS commands whenever there was say, 15 minutes of lack of movement.
 
 ![alt tag](https://raw.githubusercontent.com/tk512/dashboard-motion-detect/master/raspberry-in-tray.jpg)
