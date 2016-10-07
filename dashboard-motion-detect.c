@@ -11,7 +11,7 @@
  *        Connect a standard Adafruit-like PIR to the Raspberry. Use
  *        GPIO pin 4 on the board, along with 5V and GND.
  * 
- *      July 2016, Torbjørn Kristoffersen <tk@mezzanineware.com>
+ *      July 2016, Torbjørn Kristoffersen <torbjoern@gmail.com>
  */
 
 #include <stdio.h>
