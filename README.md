@@ -16,7 +16,9 @@ As an additional bonus, I added a SQLite3 database to record movements in the of
 displayed on the dashboard itself (in a tiny corner). To be fair, it's not very useful, but it's still fun to be 
 able to see that people were at the office (working hard I'm sure) until 9PM the previous night, by just looking at the chart.  We can also see motion history going weeks or months back:
 
-![alt tag](https://raw.githubusercontent.com/tk512/dashboard-motion-detect/master/motion-chart.jpg)
+<img src="https://raw.githubusercontent.com/tk512/dashboard-motion-detect/master/motion-chart.jpg" width="512">
+
+<img src="https://raw.githubusercontent.com/tk512/dashboard-motion-detect/master/motion-chart-hourly.jpg" width="512">
 
 ## Installation ##
 
