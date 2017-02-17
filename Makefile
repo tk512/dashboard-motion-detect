@@ -2,7 +2,7 @@
 #
 # Makefile:
 #	dashboard-motion-detect
-#       July 2016, Torbjørn Kristoffersen <tk@mezzanineware.com>
+#       July 2016, Torbjørn Kristoffersen <torbjoern@gmail.com>
 #
 #################################################################################
 
